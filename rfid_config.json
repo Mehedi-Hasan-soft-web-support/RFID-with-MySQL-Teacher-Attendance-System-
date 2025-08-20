@@ -1,0 +1,6 @@
+{
+    "serial_port": "COM12",
+    "baudrate": 115200,
+    "php_url": "http://localhost/phplogin/attendance.php",
+    "timeout": 1
+}
