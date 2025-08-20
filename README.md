@@ -1,4 +1,11 @@
 # Teacher Portal Dashboard - Mehedi's IoT Academy
+<img width="1365" height="721" alt="image" src="https://github.com/user-attachments/assets/22333765-d360-4f0e-a997-62691a5a675f" />
+
+
+![photo_6136229766345377418_y](https://github.com/user-attachments/assets/1ab287a5-bed8-4433-95d5-cac566f36ac5)
+
+
+
 
 ## Overview
 The Teacher Portal Dashboard is a **web-based academic management system** designed to streamline administrative tasks for teachers and administrators. Built primarily on **MySQL** with PHP backend and a responsive frontend, the system integrates **IoT technology** (ESP32 + RFID) to automate attendance recording and enhance efficiency.
